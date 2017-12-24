@@ -1,8 +1,7 @@
 body{
-	background: url(mikhail-vasilyev-253977.jpg);
-
-	background: cover;
-	background-position: center;
+	background: url(https://images.unsplash.com/photo-1494256997604-768d1f608cac?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=808126dd246ba09fe4f6026e7968f139);
+	background-size: cover;
+	background-position:center;
 }
 body, html{
 	width: 100%;
@@ -35,14 +34,20 @@ a{
 
 }
 
-h6{
 
-
-}
 
 
 hr {
     width: 400px;
     border-top: 1px solid #f8f8f8;
     border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+#footer{
+	position: absolute;
+	bottom: 0%;
+	color: brown;
+	text-shadow: 0px 4px 3px grey;
+	
+                 
 }
